@@ -131,7 +131,7 @@ msgstr "Stödlinjer"
 
 #: src/sk1/dialogs/filelogviewer.py:70
 msgid "Path"
-msgstr "Bana"
+msgstr "Sökväg"
 
 #: src/sk1/dialogs/filelogviewer.py:70
 msgid "Time"
